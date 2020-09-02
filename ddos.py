@@ -20,8 +20,9 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet ATTACK YOUR IE PROJECT")
 print
+print ("Reference: Ha3MrX ")
 print ("Author   : TA-04")
-print ("github   : ")
+print ("github   : https://github.com/Duchenne0080/dos_attack")
 print
 ip = input("IP Target : ")
 port = input("Port       : ")
