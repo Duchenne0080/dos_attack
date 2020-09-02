@@ -28,8 +28,8 @@ ip = input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
-os.system("figlet Attack Starting")
-
+os.system("figlet WARNING")
+print ("This is for Monash IE project only, do not attack others!!!")
 sent = 0
 port = int(port)
 while True:
